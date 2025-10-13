@@ -1,1 +1,1 @@
-There are many dashboards and business solutions by BI on the Companies data and task in this repository.
+Dashboards and solving business tasks with BI tools on the Companies file and datasets.   
